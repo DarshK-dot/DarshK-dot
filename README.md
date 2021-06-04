@@ -14,6 +14,9 @@
         
   - TryHackMe:
         https://tryhackme.com/p/ragnar123
+      
+  - Twitter:
+        https://twitter.com/darshan_kose
         
   - Phone:
         (+91)7620588958
